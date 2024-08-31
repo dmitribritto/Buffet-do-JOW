@@ -1,11 +1,11 @@
 @font-face {
     font-family: legal;
-    src: url(legal.ttf) format(truetype);
+    src: url(../fonts/legal.ttf) format(truetype);
 }
 
 @font-face {
     font-family: daora;
-    src: url(daora.ttf) format(truetype);
+    src: url(../fonts/daora.ttf) format(truetype);
 }
 
 html{

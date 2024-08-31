@@ -1,2 +1,2 @@
 # Buffet-do-JOW
-Site de buffet realizado com o intuito de demonstrar minhas habilidades acerca do uso de flexbox em CSS.
+Site realizado com o objetivo de demonstrar minhas habilidades em HTML e CSS. Venha conhecer o melhor buffet, o Buffet do JOW!
